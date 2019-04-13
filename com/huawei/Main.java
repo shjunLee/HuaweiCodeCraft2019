@@ -1,4 +1,3 @@
-
 package com.huawei;
 
 import com.huawei.dataStructure.Queue;
